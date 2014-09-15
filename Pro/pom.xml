@@ -10,6 +10,12 @@
           <version>4.8.2</version>  
           <scope>test</scope>
           </dependency>
+          
+      <dependency>
+        <groupId>com.jayway.android.robotium</groupId>
+		<artifactId>robotium-solo</artifactId>  		
+		<version>robotium-solo-5.2.2-SNAPSHOT</version>
+	</dependency>	
 		  
   </dependencies>
   <reporting>
