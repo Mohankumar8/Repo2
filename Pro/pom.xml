@@ -81,7 +81,7 @@
               </execution>
             </executions>
             <configuration>
-              <executable>C:\Mohan\One\workspace3\pro.bat</executable>
+              <executable>pro.bat</executable>
             </configuration>
           </plugin> 
 		  </plugins>
