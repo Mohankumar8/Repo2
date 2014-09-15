@@ -3,6 +3,13 @@
   <groupId>com.example.pro</groupId>
   <artifactId>Project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <parent>
+  		<groupId>com.jayway.android.robotium</groupId>
+		<artifactId>robotium</artifactId>
+		<version>5.2.1</version>
+</parent>
+  
   <dependencies>
       <dependency>
           <groupId>junit</groupId>
