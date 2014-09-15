@@ -9,6 +9,13 @@
 		<artifactId>robotium</artifactId>
 		<version>5.2.1</version>
 </parent>
+
+
+        <groupId>com.jayway.android.robotium</groupId>
+		<artifactId>robotium-solo</artifactId>  		
+		<version>robotium-solo-5.2.2-SNAPSHOT</version>
+	
+		  
   
   <dependencies>
       <dependency>
@@ -18,12 +25,7 @@
           <scope>test</scope>
           </dependency>
           
-      <dependency>
-        <groupId>com.jayway.android.robotium</groupId>
-		<artifactId>robotium-solo</artifactId>  		
-		<version>robotium-solo-5.2.2-SNAPSHOT</version>
-		</dependency>	
-		  
+      
   </dependencies>
   <reporting>
 		<plugins>
